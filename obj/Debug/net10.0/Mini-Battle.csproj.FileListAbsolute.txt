@@ -1,0 +1,14 @@
+/Users/rezanourozi/Jönköping/Mini-Battle/bin/Debug/net10.0/Mini-Battle
+/Users/rezanourozi/Jönköping/Mini-Battle/bin/Debug/net10.0/Mini-Battle.deps.json
+/Users/rezanourozi/Jönköping/Mini-Battle/bin/Debug/net10.0/Mini-Battle.runtimeconfig.json
+/Users/rezanourozi/Jönköping/Mini-Battle/bin/Debug/net10.0/Mini-Battle.dll
+/Users/rezanourozi/Jönköping/Mini-Battle/bin/Debug/net10.0/Mini-Battle.pdb
+/Users/rezanourozi/Jönköping/Mini-Battle/obj/Debug/net10.0/Mini-Battle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rezanourozi/Jönköping/Mini-Battle/obj/Debug/net10.0/Mini-Battle.AssemblyInfoInputs.cache
+/Users/rezanourozi/Jönköping/Mini-Battle/obj/Debug/net10.0/Mini-Battle.AssemblyInfo.cs
+/Users/rezanourozi/Jönköping/Mini-Battle/obj/Debug/net10.0/Mini-Battle.csproj.CoreCompileInputs.cache
+/Users/rezanourozi/Jönköping/Mini-Battle/obj/Debug/net10.0/Mini-Battle.dll
+/Users/rezanourozi/Jönköping/Mini-Battle/obj/Debug/net10.0/refint/Mini-Battle.dll
+/Users/rezanourozi/Jönköping/Mini-Battle/obj/Debug/net10.0/Mini-Battle.pdb
+/Users/rezanourozi/Jönköping/Mini-Battle/obj/Debug/net10.0/Mini-Battle.genruntimeconfig.cache
+/Users/rezanourozi/Jönköping/Mini-Battle/obj/Debug/net10.0/ref/Mini-Battle.dll
